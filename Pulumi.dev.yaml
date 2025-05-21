@@ -1,0 +1,9 @@
+config:
+  gcp:project: quick-processor-459109-n6
+  gcp:region: us-central1
+  gcpp:clusterName: dev-cluster
+  gcpp:environment: dev
+  gcpp:nodeCount: 1
+  gcpp:nodeSize: e2-standard-4
+  gcpp:k8sVersion: latest
+  gcp:zone: us-central1-a
